@@ -40,7 +40,7 @@
 
 
 <h3>Step 2: </h3>
-<p>Second we will be moving the appropriate user accounts to the new OU, adding them to the appropriate groups, and joining the devices to the domain with the correct DNS settings to the DC </p>
+<p>Second we will be moving the appropriate user accounts to the new OU, adding them to the appropriate groups, joining the devices to the domain with the correct DNS settings to the DC and enabling Remote Desktop on the devices via groups such as domain users </p>
 
 - 
 
