@@ -32,7 +32,7 @@
 <h1>Organizational Unit (OU) Management</h1>
 
 <h3>Step 1: </h3>
-<p>First we will be creating any new OUs that are relevant to changes within the company such as new teams or departments </p>
+<p>First we will be creating any new OUs, users and groups that are relevant to changes within the company such as new teams, departments or employees </p>
 
 - 
 
@@ -40,7 +40,7 @@
 
 
 <h3>Step 2: </h3>
-<p>Second we will be moving the appropriate user accounts to the new OU </p>
+<p>Second we will be moving the appropriate user accounts to the new OU, adding them to the appropriate groups, and joining the devices to the domain with the correct DNS settings to the DC </p>
 
 - 
 
@@ -48,7 +48,7 @@
 
 
 <h3>Step 3: </h3>
-<p>Third we will be verifying the reorganization aligns with the company's heirarchy as well as Group Policy settings </p>
+<p>Third we will be verifying the reorganization aligns with the company's hierarchy as well as Group Policy settings;  </p>
 
 - 
 
