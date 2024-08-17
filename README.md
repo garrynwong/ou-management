@@ -34,17 +34,29 @@
 <h3>Step 1: </h3>
 <p>First we will be creating any new OUs, users and groups that are relevant to changes within the company such as new teams, departments or employees </p>
 
-- 
+- in this example, we have created a OU named 'CORP'. This will nest our other OUs that will contain our objects such as users and groups.
+- in this case, we have security groups for departments such as finance and marketing and users for employees in each department.
 
-<br>
+![1](https://github.com/user-attachments/assets/6cfc904c-8828-4b03-90ce-fd39f509e9b3)
+
+____
+
+![2](https://github.com/user-attachments/assets/43839d64-2072-4d43-a04e-1e7cd7a3b707)
+
+
+____
 
 
 <h3>Step 2: </h3>
-<p>Second we will be moving the appropriate user accounts to the new OU, adding them to the appropriate groups, joining the devices to the domain with the correct DNS settings to the DC and enabling Remote Desktop on the devices via groups such as domain users </p>
+<p>Second we will be adding users to the appropriate groups, joining the client devices to the domain with the correct DNS settings to the DC and enabling Remote Desktop on the devices via groups such as domain users </p>
 
 - 
 
-<br>
+![3](https://github.com/user-attachments/assets/48c9dbcd-26d5-4abb-942a-fb2165b6e2f6)
+
+
+
+____
 
 
 <h3>Step 3: </h3>
