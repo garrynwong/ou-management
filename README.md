@@ -48,7 +48,7 @@ ____
 
 
 <h3>Step 2: </h3>
-<p>Second we will be adding users to the appropriate groups, joining the client devices to the domain with the correct DNS settings to the DC and enabling Remote Desktop on the devices via groups such as domain users </p>
+<p>Second we will be adding users to the appropriate groups </p>
 
 - 
 
@@ -59,10 +59,23 @@ ____
 ____
 
 
-<h3>Step 3: </h3>
-<p>Third we will be verifying the reorganization aligns with the company's hierarchy as well as Group Policy settings;  </p>
+<h3>Step 3: joining the client devices to the domain </h3>
+<p> </p>
 
-- 
+
+
+
+
+<br>
+
+____
+
+
+<h3>Step 4: enabling Remote Desktop on the devices via groups such as domain users </h3>
+<p> </p>
+
+
+
 
 <br>
 
