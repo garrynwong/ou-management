@@ -144,7 +144,7 @@ ____
 
 
 ____
-
+you can add or remove users or groups from the remote desktop users for this device from here
 
 ![12](https://github.com/user-attachments/assets/4bcabd40-7c77-4f7b-b4ff-023b1fa1cb05)
 
