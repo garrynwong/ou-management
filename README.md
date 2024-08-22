@@ -118,7 +118,7 @@ ____
 
 <br>
 
-log back into the local admin user account (ex. administrator on CLIENT1) or a domain admin account (ex. lab admin on CORP)
+log back into the client's local admin user account (ex. administrator on CLIENT1) or a domain admin account (ex. lab admin on CORP)
 
 ![8](https://github.com/user-attachments/assets/f45049e6-232d-411c-b85a-1f6ebff4768b)
 
