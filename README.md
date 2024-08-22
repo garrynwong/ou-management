@@ -18,8 +18,6 @@
 - Windows 11 (23H2)
 
 
-<br>
-
 
 
 <h1>Organizational Unit (OU) Management</h1>
