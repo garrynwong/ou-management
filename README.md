@@ -43,7 +43,6 @@ ____
 <h3>Step 2: </h3>
 <p>Second we will be adding users to the appropriate groups </p>
 
-- 
 
 ![3](https://github.com/user-attachments/assets/48c9dbcd-26d5-4abb-942a-fb2165b6e2f6)
 
