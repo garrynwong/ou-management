@@ -59,7 +59,7 @@ ____
 ____
 
 
-<h3>Step 3: joining the client devices to the domain </h3>
+<h3>Step 3: joining the client devices to the domain; log into the local admin account on the device </h3>
 <p> </p>
 
 
@@ -87,6 +87,15 @@ ____
 
 
 ![5](https://github.com/user-attachments/assets/cff70d5e-422d-4d26-8886-962a1a20f0df)
+
+
+____
+
+
+
+
+
+![6](https://github.com/user-attachments/assets/af04abee-6998-4dd5-8e22-2d67550eb43c)
 
 
 ____
