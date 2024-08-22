@@ -114,10 +114,16 @@ ____
 ____
 
 
-log back into the local admin user account or a domain admin account 
+log back into the local admin user account (ex. administrator) or a domain admin account (ex. lab admin)
 
 ![8](https://github.com/user-attachments/assets/f45049e6-232d-411c-b85a-1f6ebff4768b)
 
+
+
+____
+
+
+![9](https://github.com/user-attachments/assets/b2703a48-9189-4712-aad6-ff027020954f)
 
 
 ____
