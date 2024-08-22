@@ -10,7 +10,7 @@
 - Hyper-V (Virtual Machines/Compute)
 - Active Directory
 - Remote Desktop
-- 
+
 
 <h2>Operating Systems Used </h2>
 
