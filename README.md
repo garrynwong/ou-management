@@ -27,8 +27,8 @@
 <h3>Step 1: </h3>
 <p>First we will be creating any new OUs, users and groups that are relevant to changes within the company such as new teams, departments or employees </p>
 
-- in this example, we have created a OU named 'CORP'. This will nest our other OUs that will contain our objects such as users and groups.
-- in this case, we have security groups for departments such as finance and marketing and users for employees in each department.
+- We have created a OU named 'CORP'. This will nest our other OUs that will contain our objects such as users and groups.
+- We have security groups for departments such as finance and marketing and users for employees in each department.
 
 ![1](https://github.com/user-attachments/assets/6cfc904c-8828-4b03-90ce-fd39f509e9b3)
 
