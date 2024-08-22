@@ -3,14 +3,6 @@
 
 <p>Welcome to the "Active Directory Organizational Unit (OU) Management & Domain Setup" project. In this project, we'll  </p>
 
-<h2>Prerequisites</h2>
-
-- <a> </a>
-
-<h2>Key Objectives</h2>
-
-<h4>Organizational Unit (OU) Management</h4>
-
 -  
 
 <h2>Environments and Technologies Used</h2>
