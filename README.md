@@ -80,6 +80,10 @@ ____
 
 ____
 
+
+log into a domain account with the permission to connect to the domain (ex. domain admin group)
+
+
 ![4](https://github.com/user-attachments/assets/3af805c2-aeef-45f2-b348-7cfd669ee256)
 
 
