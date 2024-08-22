@@ -114,6 +114,7 @@ ____
 ____
 
 
+log back into the local admin user account or a domain admin account 
 
 ![8](https://github.com/user-attachments/assets/f45049e6-232d-411c-b85a-1f6ebff4768b)
 
