@@ -1,7 +1,7 @@
 <h1> Active Directory: Organizational Unit (OU) Management & Domain Setup </h1>
 
 
-<p>Welcome to the "Active Directory Organizational Unit (OU) Management & Domain Setup" project. In this project, we'll  </p>
+<p>In this project, we'll  </p>
 
 -  
 
@@ -49,6 +49,9 @@ ____
 
 
 ____
+
+
+<h1>Domain Setup</h1>
 
 
 <h3>Step 3: </h3>
