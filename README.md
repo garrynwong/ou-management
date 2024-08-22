@@ -1,4 +1,4 @@
-<h1> Active Directory: Organizational Unit (OU) Management </h1>
+<h1> Active Directory: Organizational Unit (OU) Management & Domain Setup </h1>
 
 
 <p>Welcome to the "Active Directory Organizational Unit (OU) Management" project. In this project, we'll  </p>
