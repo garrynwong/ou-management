@@ -132,6 +132,8 @@ ____
 
 ____
 
+enable remote desktop; then press "Remote Desktop Users" to add users or groups; you will need a domain account with admin credentials (ex. labadmin)
+
 
 ![10](https://github.com/user-attachments/assets/e02b4356-6bc0-4601-b515-51d32d3bd8f3)
 
