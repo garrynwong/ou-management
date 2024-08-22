@@ -82,7 +82,7 @@ You will need to provide credentials a domain account with the permission to con
 ____
 
 
-skip adding a user account as we will be logging in with our domain user account (ex. testuser1)
+Skip adding a user account as we will be logging in with our domain user account (ex. testuser1). restart the device.
 
 
 ![5](https://github.com/user-attachments/assets/cff70d5e-422d-4d26-8886-962a1a20f0df)
@@ -99,18 +99,18 @@ ____
 
 ____
 
-verify you are connected to the domain name
+Verify you are connected to the domain name
 
 ![7](https://github.com/user-attachments/assets/11ee7c68-fb66-4cb6-8240-fbc476f38ea3)
 
 
 ____
-<h3>Step 4: enabling Remote Desktop on the devices via groups such as domain users </h3>
+<h3>Step 4: Enable Remote Desktop on domain devices via groups such as domain users </h3>
 <p> </p>
 
 <br>
 
-log back into the client's local admin user account (ex. administrator on CLIENT1) or a domain admin account (ex. lab admin on CORP)
+Log back into the client's local admin user account (ex. administrator on CLIENT1) or a domain admin account (ex. labadmin on CORP)
 
 ![8](https://github.com/user-attachments/assets/f45049e6-232d-411c-b85a-1f6ebff4768b)
 
@@ -124,7 +124,7 @@ ____
 
 ____
 
-enable remote desktop; then press "Remote Desktop Users" to add users or groups; you will need a domain account with admin credentials (ex. labadmin)
+Enable remote desktop then press "Remote Desktop Users" to add users or groups. You will need a domain account with admin credentials (ex. labadmin)
 
 
 ![10](https://github.com/user-attachments/assets/e02b4356-6bc0-4601-b515-51d32d3bd8f3)
@@ -136,7 +136,7 @@ ____
 
 
 ____
-you can add or remove users or groups from the remote desktop users for this device from here
+You can add or remove users or groups from Remote Desktop for this device from here
 
 ![12](https://github.com/user-attachments/assets/4bcabd40-7c77-4f7b-b4ff-023b1fa1cb05)
 
@@ -150,19 +150,6 @@ ____
 
 
 ____
-
-
-
-
-____
-<br>
-
-____
-
-
-
-
-<br>
 
 
 
