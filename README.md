@@ -90,6 +90,9 @@ log into a domain account with the permission to connect to the domain (ex. doma
 ____
 
 
+skip adding a user account as we will be logging in with our domain user account (ex. testuser1)
+
+
 ![5](https://github.com/user-attachments/assets/cff70d5e-422d-4d26-8886-962a1a20f0df)
 
 
@@ -111,7 +114,9 @@ ____
 ____
 
 
-![9](https://github.com/user-attachments/assets/34cea81a-b983-4eb4-a7cc-27c2bb3d064c)
+
+![8](https://github.com/user-attachments/assets/f45049e6-232d-411c-b85a-1f6ebff4768b)
+
 
 
 ____
