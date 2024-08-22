@@ -148,14 +148,6 @@ ____
 ____
 
 
-![6](https://github.com/user-attachments/assets/518f9f2f-a0c3-4cbd-a851-2e0f2dbaf2bd)
-
-
-
-____
-
-
-![8](https://github.com/user-attachments/assets/5b412ec9-3248-4cb5-9583-40eb880eaf8f)
 
 
 ____
