@@ -41,7 +41,7 @@ ____
 
 
 <h3>Step 2: </h3>
-<p>Second we will be adding users to the appropriate groups </p>
+<p> Adding users to the appropriate groups </p>
 
 
 ![3](https://github.com/user-attachments/assets/48c9dbcd-26d5-4abb-942a-fb2165b6e2f6)
@@ -52,7 +52,7 @@ ____
 
 
 <h3>Step 3: </h3>
-<p> We will join any client devices to the domain. Then We will need to log into the local admin account on the device and access work domain </p>
+<p> Joining any client devices to the domain. We will need to log into the local admin account on the device and add work domain </p>
 
 
 ![1](https://github.com/user-attachments/assets/42b21543-8c8a-4ac3-8687-97206f453d0f)
@@ -73,7 +73,7 @@ ____
 ____
 
 
-You will need to provide credentials a domain account with the permission to connect to the domain (ex. lab admin in domain admin group on AD)
+Provide credentials to a domain account with the permission to connect to the domain (ex. lab admin in domain admin group on AD)
 
 
 ![4](https://github.com/user-attachments/assets/3af805c2-aeef-45f2-b348-7cfd669ee256)
@@ -136,7 +136,7 @@ ____
 
 
 ____
-You can add or remove users or groups from Remote Desktop for this device from here
+Add or remove users or groups from Remote Desktop for this device from here
 
 ![12](https://github.com/user-attachments/assets/4bcabd40-7c77-4f7b-b4ff-023b1fa1cb05)
 
