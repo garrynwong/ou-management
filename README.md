@@ -107,12 +107,16 @@ ____
 
 ____
 
+verify you are connected to the domain name
 
 ![7](https://github.com/user-attachments/assets/11ee7c68-fb66-4cb6-8240-fbc476f38ea3)
 
 
 ____
+<h3>Step 4: enabling Remote Desktop on the devices via groups such as domain users </h3>
+<p> </p>
 
+<br>
 
 log back into the local admin user account (ex. administrator) or a domain admin account (ex. lab admin)
 
@@ -160,10 +164,6 @@ ____
 <br>
 
 ____
-
-
-<h3>Step 4: enabling Remote Desktop on the devices via groups such as domain users </h3>
-<p> </p>
 
 
 
