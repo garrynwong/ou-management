@@ -52,7 +52,7 @@ ____
 
 
 <h3>Step 3: </h3>
-<p> joining the client devices to the domain; log into the local admin account on the device </p>
+<p> We will join any client devices to the domain. We will need to log into the local admin account on the device </p>
 
 
 ![1](https://github.com/user-attachments/assets/42b21543-8c8a-4ac3-8687-97206f453d0f)
